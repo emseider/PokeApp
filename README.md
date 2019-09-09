@@ -1,5 +1,5 @@
 # PokeApp
-SPA to test Angular
+Angular Test
 
 
 **Please follow the instructions below, once you have finished send an email to HR and make a pull request to review your work.** <br>
