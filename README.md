@@ -3,6 +3,9 @@ SPA to test Angular
 
 
 **Please follow the instructions below, once you have finished send an email to HR and make a pull request to review your work.**
+Don't forget to make a fork of this repository in Github.
+
+**Installation**
 
 Install packages:
 `npm install`
@@ -50,5 +53,8 @@ TYPE: GET
 **Get an specific pokemon by name**
 URL: http://pokeapi.co/api/v2/pokemon/bulbasaur/
 TYPE: GET 
+
+
+**If you have any question just send us an [email](e.mendoza@4thsource.com)**
 
 
