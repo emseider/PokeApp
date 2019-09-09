@@ -21,8 +21,8 @@ Run tests:<br>
 
 
 ## Objective
-A company wants to build a Pokemon SPA demo using Angular as base framework to give the ability to any gamer to find and list any pokemon.
-The company is worried about the user experience so you need to consider the followings constraints in your app:
+A company wants to build a Pokemon SPA demo using Angular as base framework to give the ability to find and list any pokemon.
+The company is concerned about the user experience so you need to consider the followings constraints in your solution:
 
     - Include a Form (input text and submit button) where the user could find an specific Pokemon by name.
     - List and present all the pokemon below the form [use](http://pokeapi.co/api/v2/pokemon/)
