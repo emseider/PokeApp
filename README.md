@@ -25,9 +25,9 @@ A company wants to build a Pokemon SPA demo using Angular as base framework to g
 The company is concerned about the user experience so you need to consider the followings constraints in your solution:
 
     - Include a Form (input text and submit button) where the user could find an specific Pokemon by name.
-    - List and present all the pokemon below the form [use](http://pokeapi.co/api/v2/pokemon/)
-        with his own name and image (to get the image you should call [use](http://pokeapi.co/api/v2/pokemon/{name}/)
-        for each pokemon previously listed).
+    - List and present all the pokemon characters below the form [use](http://pokeapi.co/api/v2/pokemon/)
+        with his own name and image [to get the image you should use](http://pokeapi.co/api/v2/pokemon/{name}/)
+        for each pokemon previously listed.
     - If the user enters a pokemon name the app should filter the list by name.
     - If the input value is empty then the app should to present all the pokemon list.
 
