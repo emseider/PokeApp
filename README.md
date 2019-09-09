@@ -58,6 +58,6 @@ http://pokeapi.co/api/v2/pokemon/bulbasaur/<br>
 TYPE: GET 
 
 
-**If you have any question just send us an [email](e.mendoza@4thsource.com)**
+**If you have any question just send us an email**
 
 
