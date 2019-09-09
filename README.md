@@ -50,12 +50,12 @@ URL:<br>
 http://pokeapi.salestock.net/docsv2/
 
 
-**Get all Pokemons**
-URL: http://pokeapi.co/api/v2/pokemon<br>
+**Get all Pokemons**<br>
+http://pokeapi.co/api/v2/pokemon<br>
 TYPE: GET 
 
 **Get an specific pokemon by name**<br>
-URL: http://pokeapi.co/api/v2/pokemon/bulbasaur/<br>
+http://pokeapi.co/api/v2/pokemon/bulbasaur/<br>
 TYPE: GET 
 
 
