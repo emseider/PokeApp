@@ -7,6 +7,9 @@ SPA to test Angular
 Install packages:
 `npm install`
 
+Install angular cli:
+`npm install -g @angular/cli`
+
 Run:
 `ng serve`
 
