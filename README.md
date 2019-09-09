@@ -2,8 +2,7 @@
 Angular Test
 
 
-**Please follow the instructions below, once you have finished send an email to HR and make a pull request to review your work.** <br>
-Don't forget to make a fork of this repository in Github.
+**Please follow the instructions below. Once you have finished send an email to HR with the link of your forked repository to review your work.** <br>
 
 ## Install
 
