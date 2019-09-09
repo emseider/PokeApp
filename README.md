@@ -46,7 +46,7 @@ If you want to consider to handle loading elements or pagination to increase the
 
 
 ## API
-URL:<br>
+Docs:<br>
 http://pokeapi.salestock.net/docsv2/
 
 
